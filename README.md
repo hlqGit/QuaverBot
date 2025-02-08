@@ -2,10 +2,9 @@
 plays quaver, kinda poorly and very VERY specific to my setup
 
 ## notes:
-can't do hold notes lol  
-31.7 scroll speed ideal  
+fast scroll speed ideal  
 can adjust offset in keyboardhandle.py  
-flow skin only  
+flow skin only or customize my code  
 
 this will take a bit of setup to get working on another computer, must change position of capture and fix up the offset, and probably more.
 
