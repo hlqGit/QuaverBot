@@ -1,6 +1,6 @@
 import time
 import os
-offset = 0.020
+offset = 0.045
 
 #----------- PRESSES -----------#
 def press_left():
@@ -38,17 +38,13 @@ def hold_right():
 
 #----------- RELEASES -----------#
 def release_left():
-    time.sleep(offset)
     os.system("xdotool keyup a")
 
 def release_down():
-    time.sleep(offset)
     os.system("xdotool keyup s")
 
 def release_up():
-    time.sleep(offset)
     os.system("xdotool keyup k")
 
 def release_right():
-    time.sleep(offset)
     os.system("xdotool keyup l")
