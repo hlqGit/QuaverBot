@@ -1,5 +1,5 @@
 # Quaver Bot
-This bot automatically plays quaver by monitoring each lane! It isn't extremely good yet, but can usually do up to a 30 rated song. Depends on the charting obviously.
+This bot automatically plays quaver by monitoring each lane! It isn't extremely good yet, but can usually do up to a 30 rated song, depending on how it is charted.
 
 ## Demo Video!
 https://youtu.be/hsvOzRJPJt0
